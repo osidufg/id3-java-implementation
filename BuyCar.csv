@@ -1,0 +1,15 @@
+﻿Age;Income;Employee;CreditRating;BuyCar
+Young;High;No;Fair;No
+Young;High;No;Excellent;No
+MiddleAge;High;No;Fair;Yes
+Senior;Medium;No;Fair;Yes
+Senior;Low;Yes;Fair;Yes
+Senior;Low;Yes;Excellent;No
+MiddleAge;Low;Yes;Excellent;Yes
+Young;Medium;No;Fair;No
+Young;Low;Yes;Fair;Yes
+Senior;Medium;Yes;Fair;Yes
+Young;Medium;Yes;Excellent;Yes
+MiddleAge;Medium;No;Excellent;Yes
+MiddleAge;High;Yes;Fair;Yes
+Senior;Medium;No;Excellent;Yes
